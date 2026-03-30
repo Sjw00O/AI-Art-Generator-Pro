@@ -15,7 +15,6 @@ import gradio as gr
 import random
 
 # --- 配置区域 ---
-# 在这里修改你的学号和姓名
 STUDENT_ID = "423830220"
 STUDENT_NAME = "邵嘉文"
 MODEL_ID = "runwayml/stable-diffusion-v1-5"  # 使用经典的 v1.5 模型，兼容性好且效果好
